@@ -4,7 +4,6 @@
 # when we are using the escape handling it starts with try and must have a except also.
 
 try:
-  
   print("Proigarm zur berechnuhg eiine Durchnittstempeartur \n") 
   print("Geben sie bitte drei Temperature in °C ein! ")
   temperatur1 = float(input("1, Wert: ")) # the 1 variable
